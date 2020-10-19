@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<H1>FORM1</H1>
+<form action="https://elearning.hakka.gov.tw/ver2015/allclass/Default.aspx" method="GET">
+<input type="text" name="group">
+<input type="submit" value=" ∩ ^o^ ⊃━☆ﾟ.*･｡">
+</form>
 
-You can use the [editor on GitHub](https://github.com/luna629/form.htm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<H1>FOPM2</H1>
+<form action="https://elearning.hakka.gov.tw/ver2015/allclass/Default.aspx" method="GET">
+<select name="group">
+<option value="g000000015">看影片學客語(行動學習)</option>
+<option value="20000002">客家文學</option>
+<option value="20000001" selected>客語教學</option>
+<option value="20000003">兒童客家</option>
+<option value="g000000047">客語認證考題分析</option>
+<option value="20000006">客家文化創意產業</option>
+<option value="20000004">客家音樂</option>
+<option value="20000005">客家民俗歷史</option>
+</select>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<input type="submit" value=" ᕕ  ᐛ  ᕗ">
+</form>
 
-### Markdown
+<H1>FORM 3</H1>
+<form action="https://www.pinkoi.com/search" method="GET">
+<input type="text" name="q">
+<input type="hidden" name="cat" value="文具">
+<input type="submit" value="ฅ●ω●ฅ">
+</form>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<H1>FORM 4 HTML5</H1>
 
-```markdown
-Syntax highlighted code block
+<input type="datetime-local" min="2015-10-01T00:00" max="2015-10-31T00:00">
+<input type="tel" pattern="[0][9][0-9]{8}" placeholder="09xxxxxxxx">
+<input type="url" placeholder="http://it-life-wyx.blogspot.tw/">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<H1>HTML5 時間/日期/電話</H1>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luna629/form.htm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
